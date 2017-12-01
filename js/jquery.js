@@ -7,11 +7,11 @@ $(document).ready(function() {
     var enviro = $("input:radio[name=4]:checked").val();
     var coin = $("input:radio[name=5]:checked").val();
 
-    if (backfront === "back") {
+    if (backFront === "back" && platform === "network" && ease === "no" && enviro === "large" && coin === "logic") {
         alert("Good Luck!");
         $(".csharp").show();
 
 
-
+      }
       });
     });
