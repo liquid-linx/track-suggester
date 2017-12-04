@@ -8,7 +8,7 @@ $(document).ready(function() {
     var coin = $("input:radio[name=5]:checked").val();
 
     if (backFront === "back" && platform === "network" && ease === "no" && enviro === "large" && coin === "logic") {
-              alert("Good Luck!");
+              alert("Do or do not. There is no try.");
               $(".csharp").show();
 
 
