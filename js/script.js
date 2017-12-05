@@ -19,6 +19,9 @@ $(document).ready(function() {
     } else if (question2 === "mobile" && question3 === "no" && question4 === "large" && question5 === "logic") {
       alert("Do or do not. There is no try.")
       $(".android").show();
+    } else {
+      alert("Do or do not. There is no try.")
+      $(".android").show();
     }
   });
 });

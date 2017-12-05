@@ -2,11 +2,11 @@ Track-Suggester
 A semi-funtional survey, 12/1/2017
 Author: Omar Solano
 
-This survey was built to determine users ideal programming track.
+This survey was built to determine the users ideal programming track.
 
 Can be accessed through my Github repository (https://github.com/omarcodus) no installation required.
 
-Unzip .zip file and it is ready to view.
+Readt to be viewed upon unzipping file.
 
 In process of fixing bug in Javascript file. Bug wont allow CSS to link
 properly with Javascript.
